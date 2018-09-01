@@ -1,2 +1,2 @@
 # portfolio
-<shantypower>.github.io
+shantypower.github.io
